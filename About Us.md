@@ -3,7 +3,7 @@
 Ethtags is a project built on an ethereum smart contract that was developed by @jtomes123.The smart contract is almost finalized, the final version is almost ready. Verification of names is also implemented.
 
 There will be changes soon which will allow you to attach a name and some short message to your ethereum address.
-Verification of names is also implemented.
+
 
 ### Features of Ethtags?
 
